@@ -3,19 +3,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font&weight=50&size=26&pause=1000&color=8f5f8f&center=true&vCenter=true&random=false&width=512&height=64&lines=Hello%2C+I+am+argmaxin." alt="Typing SVG" /></a><br>
 </div>
 
-## Languages
+## Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,java,lua&perline=3" />
-  </a>
-</p>
-
-## Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,discord,docker,bash,vim,cmake,zig&perline=3" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,java,lua,git,github,gitlab,discord,docker,bash,vim,cmake,zig&perline=3" />
   </a>
 </p>
 
