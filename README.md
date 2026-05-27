@@ -40,5 +40,5 @@ Welcome to my page! I like to build robust systems and explore the bleeding-edge
 
 ## 🌐 Connect with Me
 Let's connect and explore the universe of code together:
-- Drop me an [email](mailto:contact@argmax.in)
+- Drop me an [email](mailto:mail@argmax.in)
 - Visit my site [here](https://www.argmax.in/)
