@@ -3,9 +3,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font&weight=50&size=26&pause=1000&color=8f5f8f&center=true&vCenter=true&random=false&width=512&height=64&lines=Hello%2C+I+am+argmaxin." alt="Typing SVG" /></a><br>
 </div>
 
-## 🚀 Skills & Tools
+-----
 
-### Languages
+## Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,7 +13,9 @@
   </a>
 </p>
 
-### Tools
+-----
+
+## Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +23,9 @@
   </a>
 </p>
 
-## Operating Systems
+-----
+
+## OSes
 
 <div align="center">
     <a href="https://www.archlinux.org">
@@ -46,7 +50,12 @@
     </a>
 </div>
 
-## 🌐 Connect with Me
-Let's connect and explore the universe of code together:
+-----
+
+## Contact
+
+You may contact me via:
 - Drop me an [email](mailto:mail@argmax.in)
-- Visit my site [here](https://www.argmax.in/)
+- Visit my site [here](https://www.argmax.in/) for more methods
+
+-----
