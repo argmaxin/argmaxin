@@ -1,14 +1,11 @@
 <div align="center">
-<!--
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font&weight=50&size=26&pause=1000&color=8f5f8f&center=true&vCenter=true&random=false&width=512&height=64&lines=Hello%2C+I+am+argmaxin." alt="Typing SVG" /></a><br>
--->
 <a href="https://www.argmax.in/"><img src="https://www.argmax.in/banner.svg" width="600" /></a>
 </div> 
 
 ## Languages & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.argmax.in/">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,java,fortran,zig,elixir,bash,lua,cmake,git,docker,vim,nix&perline=5" />
   </a>
 </p>
